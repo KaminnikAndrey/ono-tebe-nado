@@ -1,1 +1,0 @@
-https://kaminnikandrey.github.io/ono-tebe-nado/
