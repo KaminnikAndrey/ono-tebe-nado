@@ -1,1 +1,2 @@
-https://github.com/KaminnikAndrey/Ono_Tebe_Nado
+https://github.com/ilkaxd/ono-tebe-nado
+https://kaminnikandrey.github.io/ono-tebe-nado/
