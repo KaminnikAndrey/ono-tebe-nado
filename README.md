@@ -1,1 +1,1 @@
-https://github.com/KaminnikAndrey/ono-tebe-nado
+https://github.com/KaminnikAndrey/ono-tebe-nado-ad
